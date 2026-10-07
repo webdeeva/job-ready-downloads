@@ -10,7 +10,7 @@ Choose Apple Silicon or Intel. Requires macOS 13 or newer. The installers are De
 
 Open the downloaded disk image, drag **Job Ready** into **Applications**, then launch it from Applications.
 
-The first module includes cloud foundations, a fictional client migration, CLI simulations, quizzes, narrated explanations, a technical glossary and portfolio practice. Training progress is saved on your Mac. Live AI requires a configured connection; offline hints work without one.
+The first module includes cloud foundations, a fictional client migration, CLI simulations, quizzes, 14 written study guides with offline audio players, narrated migration explanations, a technical glossary and portfolio practice. Training progress is saved on your Mac. Live AI requires a configured connection; offline hints work without one.
 
 This repository hosts testing releases and public feedback. It does not contain the application's development repository.
 
